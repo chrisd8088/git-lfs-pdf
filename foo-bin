@@ -1,0 +1,7 @@
+struct foo {
+    foo bar;
+    foo bar;
+ÿÍ
+    foo bar;
+    foo bar;
+};
